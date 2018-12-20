@@ -1,12 +1,8 @@
-# Monster Training Wheels
-
-## Absolute  Beginner Dungeons and Dragons
-
-Monster Training Wheels is a place to learn the basics of Dungeons and Dragons, or refresh your skills in 5th Edition D&D.  Sometimes going into an existing campaign, even at first level with experienced players can be bewildering!  
+This is a place to learn the basics of Dungeons and Dragons, or refresh your skills in 5th Edition D&D.  Sometimes going into an existing campaign, even at first level with experienced players can be bewildering!  
 
 > *What's your AC?  Dex check! Attack Modifier? Advantage! Dead? Death Save?  What?*
 
-MTW is a day long program starting at the absolute beginning, looking at the anatomy of the character sheet, the basics of combat and encouraging role play.  Then it ends in a 'one shot', an afternoon-long self contained game, designed to embed the things you learned in the morning.
+This outlines a day long program starting at the absolute beginning, looking at the anatomy of the character sheet, the basics of combat and encouraging role play.  Then it ends in a 'one shot', an afternoon-long self contained game, designed to embed the things you learned in the morning.
 
 ## What do I need to bring
 
@@ -40,7 +36,7 @@ As a player you're expected to bring something to keep you going, as the host is
 
 Different games have very different etiquette.  Swearing, table talk, losing your temper, type of humour (sexual, scatalogical...) all depend on the people attending,how well they know each other, and the ground rules set communally.
 
-Here are the guidelines for Monster Training Wheels:
+Here are the guidelines for my games:
 
 - no in-game sexual violence (rape, coerced sex, homo/transphobic talk)
 - none of that out of the game either!
